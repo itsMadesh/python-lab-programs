@@ -6,6 +6,6 @@ d = b*b-4*a*c
 if(d >= 0):
     root1 = (-b+math.sqrt(d))/2*a
     root2 = (-b-math.sqrt(d))/2*a
-    print("roots are", root1, root2)
+    print("roots are", root1, ",", root2)
 else:
     print("roots are imaginary")
