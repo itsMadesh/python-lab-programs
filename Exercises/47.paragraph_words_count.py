@@ -15,4 +15,4 @@ word1 = input("Enter word to be replaced : ")
 word2 = input("Enter replacement word : ")
 print("After replacing with given word : ", para.replace(word1, word2))
 
-# This program got executed successsfully and the output has been verified.
+# This program got executed successfully and the output has been verified.

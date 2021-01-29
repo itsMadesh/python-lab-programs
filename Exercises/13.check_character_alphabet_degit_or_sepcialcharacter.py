@@ -8,4 +8,4 @@ elif char.isdigit():
 else:
     print("Given character is a special character")
 
-# This program got executed successfully and the output  has been verified.
+# This program got executed successfully and the output has been verified.

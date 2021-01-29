@@ -23,3 +23,6 @@ while(True):
     if n == 0:
         break
     print(n, "is multiplied by 10 :", n*10)
+
+
+# This program got executed successfully and the output has been verified.

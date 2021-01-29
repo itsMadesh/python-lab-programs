@@ -16,4 +16,4 @@ x = int(input("Enter a number-1:"))
 y = int(input("Enter a number-2:"))
 print("Multiplied", x, "by", y, "is equal to", x*y)
 
-# This program got executed successfully and the output has been verified
+# This program got executed successfully and the output has been verified.

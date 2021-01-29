@@ -36,4 +36,4 @@ for i in range(len(A)):
 
 print_matrix(result, "Result")
 
-# This program got executed successsfully and the output has been verified.
+# This program got executed successfully and the output has been verified.

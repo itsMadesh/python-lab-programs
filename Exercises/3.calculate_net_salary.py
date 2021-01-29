@@ -7,4 +7,4 @@ tax = g*tax_percentage
 net_salary = g-tax
 print("Net salary is", net_salary)
 
-# This program got executed succesfully and the output has been verified
+# This program got executed successfully and the output has been verified.

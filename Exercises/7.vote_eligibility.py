@@ -6,4 +6,4 @@ if(age >= 18):
 else:
     print("This canditate is not eligible fot voting")
 
-# This program got executed successfull and the output has been verified.
+# This program got executed successfully and the output has been verified.
