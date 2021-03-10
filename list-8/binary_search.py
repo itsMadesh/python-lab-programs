@@ -16,6 +16,7 @@ n = int(input("how a many elements do you want to include into your list:"))
 for i in range(n):
     b = input("Enter element-"+str(i+1)+":")
     a.append(int(b))
+a.sort()
 print(a)
 search_key = int(input("Enter a search value:"))
 binarysearch(a, 0, n-1, search_key)
