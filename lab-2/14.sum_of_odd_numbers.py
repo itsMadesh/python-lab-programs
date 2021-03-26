@@ -5,3 +5,5 @@ while(i <= n):
     sum = sum+i
     i = i+2
 print(" sum of odd number is ", sum)
+
+        
