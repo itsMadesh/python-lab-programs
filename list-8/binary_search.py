@@ -2,17 +2,18 @@ def binarysearch(a, l, r, search_key):
     while(l <= r):
         mid = l+(r-l)//2
         if(a[mid] == search_key):
-            print("Given value find in a index:", mid)
+            print("Given value found in a index:", mid)
             break
         elif(a[mid] < search_key):
             l = mid+1
-        else:
+        elif(a[mid] > search_key):
             r = mid-1
-    print("Element not found in list-a")
+        else:     
+            print("Element not found in list-a")
 
 
 a = []
-n = int(input("how a many elements do you want to include into your list:"))
+n = int(input("How many elements does you want to include into your list:"))
 for i in range(n):
     b = input("Enter element-"+str(i+1)+":")
     a.append(int(b))
