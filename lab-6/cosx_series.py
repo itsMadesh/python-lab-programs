@@ -15,4 +15,4 @@ def cosXseries(x, n):
 
 x = int(input("Enter the degree in x:"))
 n = int(input("How many terms do you want to sum:"))
-print(round(cosXseries(x, n), 2))
+print("cos",x,"degree=",round(cosXseries(x, n), 2))

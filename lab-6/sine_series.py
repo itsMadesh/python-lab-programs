@@ -15,4 +15,4 @@ def sineXseries(x, n):
 
 x = int(input("Enter a degree in x:"))
 n = int(input("How many terms do you want to sum:"))
-print(round(sineXseries(x, n), 2))
+print("sin",x,"degree=",round(sineXseries(x, n), 2))
