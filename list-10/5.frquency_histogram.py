@@ -1,12 +1,12 @@
 #5. Frequency histogram 
 
-sentence="I am coming for you. I am waiting"
+sentence=input("Enter a sentence:")
 word=sentence.split()
 
 d = dict()
 for c in word:
-    if c not in d:
+   if c not in d:
        d[c] = 1
-    else:
+   else:
        d[c] += 1
 print(d)

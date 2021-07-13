@@ -6,5 +6,5 @@ def fib(n):
         return n
     return fib(n-1)+fib(n-2)
 
-
-print("fib : ", fib(n))
+for i in range(n):
+    print("fib : ", fib(i))

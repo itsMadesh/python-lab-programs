@@ -2,7 +2,7 @@
 # and display the same on screen.
 
 def read_file():
-    file = open("readme.txt", "r")
+    file = open("list-11/readme.txt", "r")
     for line in file:
         print(line, end="")
     file.close()

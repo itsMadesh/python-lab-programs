@@ -1,13 +1,1 @@
-Once upon a time, son,
-they used to laugh with their hearts
-and laugh with their eyes:
-but now they only laugh with their teeth,
-while their ice-block-cold eyes
-search behind my shadow.
-
-There was a time indeed
-they used to shake hands with their hearts:
-but that’s gone, son.
-Now they shake hands without hearts
-while their left hands search
-my empty pockets.
+python python python python java c++ c 
