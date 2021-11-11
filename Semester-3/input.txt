@@ -1,0 +1,5 @@
+Enter a number:153
+Fibonacci series:
+[0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144]
+The alternative prime numbers are:
+[2, 5, 89]
