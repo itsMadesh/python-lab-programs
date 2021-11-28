@@ -32,7 +32,6 @@ class flower:
 
 print("Create Object for flower")
 flow = flower()
-lot=flower()
 while(1):
     print("1.Set flower Name\n2.Set number of petals\n3.Set price\n4.Get Name\n5.Get no of petals\n6.Get Price\n7.Exit")
     c = int(input("Enter your choice(1/2/3/4/5/6/7):"))
@@ -49,7 +48,6 @@ while(1):
         flow.set_price(price)
     elif(c == 4):
         print("Flower name is", flow.get_name())
-        print("Flower name is", lot.get_name())
     elif(c == 5):
         print("Number of petals is", flow.get_petals())
     elif(c == 6):
